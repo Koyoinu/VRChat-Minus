@@ -8,4 +8,4 @@ Just a simple Launcher that opens VRChat through steam and kills Easy Anticheat 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LudoDash&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LudoDasha&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LudoDash&show_icons=true&theme=radical)
