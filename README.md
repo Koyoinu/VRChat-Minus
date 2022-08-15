@@ -1,12 +1,3 @@
-<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
-<a name="logo" href="https://www.aregtech.com"><img align="center" src="/docs/img/areg-sdk-1280x360px-logo.png" alt="AREG SDK Home" style="width:100%;height:100%"/></a>
-  <br><br><strong>AREG SDK</strong>
-</h1>
-
-![Latest release](https://img.shields.io/github/v/release/aregtech/areg-sdk?label=%20%F0%9F%93%A3%20Latest%20release&style=flat&logoColor=b0c0c0&labelColor=363D44)
-
----
-
 <!-- markdownlint-disable -->
 ## Project Status[![](./docs/img/pin.svg)](#project-status)
 <table class="no-border">
