@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>VRChatMinus</AssemblyName>
+    <RootNamespace>VRChatMinus</RootNamespace>
+    <ApplicationIcon>ezgif.com-gif-maker (1).ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ezgif.com-gif-maker (1).ico" />
+  </ItemGroup>
+</Project>
