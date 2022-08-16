@@ -1,6 +1,6 @@
 # VRChat Minus
 Launch VRChat without Easy AntiCheat (EAC)
-Just a simple Launcher that opens VRChat through steam and kills Easy Anticheat when VRChat launches
+Just a simple Launcher that opens VRChat through steam and kills Easy Anticheat when VRChat launches This is not a bypass this does not allow you to have mods again this is simply for people to gain more frames in vrchat
 
 ## Contributers!
 
