@@ -16,7 +16,7 @@ Just a simple Launcher that opens VRChat through steam and kills Easy Anticheat 
 ```
 Can I use this to mod the game?
 ```
-> No, You cant use mods with this it is strictly to stop EAC from hogging your frames
+> No, You cant use mods with this, this application is used to stop the external EAC process from hogging your frames
 
 ```
 Is this a mod for the game, do in need melon loader?
