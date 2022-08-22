@@ -4,7 +4,7 @@ Just a simple Launcher that opens VRChat through steam and kills Easy Anticheat 
 
 ## Download the latest version of VRChat Minus
 
-### ![Here](https://github.com/LudoDash/NoEac/releases)
+### [Here](https://github.com/LudoDash/NoEac/releases)
 
 ## Contributers!
 ### Made by Koyo & Avy
