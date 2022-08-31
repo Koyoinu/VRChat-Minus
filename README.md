@@ -4,7 +4,7 @@ Just a simple Launcher that opens VRChat through steam and kills Easy Anticheat 
 
 [![DWB](https://user-images.githubusercontent.com/85961107/187552421-c2eb1ad8-1ef0-44ef-9190-2b93f9ade465.png)](https://github.com/Koyoinu/VRChat-Minus/releases)
 
-<iframe src="https://canary.discord.com/widget?id=921787121021374515&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 ## Contributers!
 ### Made by Koyo & Avy
