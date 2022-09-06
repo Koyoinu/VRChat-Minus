@@ -8,6 +8,7 @@ Just a simple Launcher that opens VRChat through steam and kills Easy Anticheat 
 
 ## Contributers!
 ### Made by Koyo & Avy
+###### & Ludo, shhh
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyoinu&show_icons=true&theme=aura)
 
