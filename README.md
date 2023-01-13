@@ -29,3 +29,6 @@ Is this a mod for the game, do in need melon loader?
 ```
 
 > This is not a mod you dont need melon loader to use this
+
+
+NOTE: I'm/I myself (Koyoinu) currently working on a version for linux
